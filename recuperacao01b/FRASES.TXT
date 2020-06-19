@@ -1,0 +1,4 @@
+frase 1 teste 1
+Frase 2 Teste 2
+FRASE 3 TESTE 3
+FR@SE #4 te$te #4
