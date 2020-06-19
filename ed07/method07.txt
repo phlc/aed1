@@ -1,0 +1,6 @@
+'Quantidade: 2
+Soma: 0.048000
+'Quantidade: 4
+Soma: 0.000400
+Quantidade: 5
+Soma: 0.002000

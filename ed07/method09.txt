@@ -1,0 +1,18 @@
+Cadeia: TESTE UM NENHUMA MINUSCULA NENHUM NUMERO#$%
+Minusculas: 0
+Cadeia: TESTE DOIS TRES miNUSCULAS TRES NUMEROS 109*s
+Minusculas: 3
+Cadeia: TESTE 3 vinte letras minusculaS 20 NUMEROS 123456789 098ˆ35172
+Minusculas: 20
+Cadeia: TESTE UM NENHUMA MINUSCULA NENHUM NUMERO#$%
+Minusculas: 0
+Cadeia: TESTE DOIS TRES miNUSCULAS TRES NUMEROS 109*s
+Minusculas: 3
+Cadeia: TESTE 3 vinte letras minusculaS 20 NUMEROS 123456789 098ˆ35172
+Minusculas: 20
+Cadeia: TESTE UM NENHUMA MINUSCULA NENHUM NUMERO#$%
+Minusculas: 0
+Cadeia: TESTE DOIS TRES miNUSCULAS TRES NUMEROS 109*s
+Minusculas: 3
+Cadeia: TESTE 3 vinte letras minusculaS 20 NUMEROS 123456789 098ˆ35172
+Minusculas: 20
